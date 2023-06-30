@@ -1,0 +1,79 @@
+.container {
+  width: 50%;
+  padding-right: 15px;
+  padding-left: 15px;
+  padding-top: 10px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 15px;
+  border: 2px solid whitesmoke;
+  border-radius: 10px;
+}
+
+div {
+  display: block;
+}
+
+.search {
+  margin-bottom: 20px;
+}
+
+h1,
+li,
+span,
+a {
+  color: #7C7C7C;
+}
+
+li {
+  list-style-type: none;
+  margin-right: 90px;
+  font-weight: 500;
+}
+
+.shift {
+  padding-right: 150px;
+  padding-left: 0;
+}
+
+.temperature {
+  font-size: 70px;
+  font-weight: 400;
+  color: black;
+  padding-top: 0;
+  padding-bottom: 10px;
+}
+
+.units {
+  color: black;
+  margin-left: 1px;
+  margin-bottom: 80px;
+  font-size: 20px;
+  position: absolute;
+  margin-top: 20px;
+
+}
+
+a {
+  color: blue;
+  text-decoration: none;
+}
+
+span {
+  margin-bottom: -10px;
+}
+
+.icons {
+  display: flex;
+}
+
+img {
+  height: 75px;
+  width: 75px;
+  margin-top: 15px;
+}
+
+.wind {
+  padding-top: 17px;
+
+}
