@@ -77,3 +77,13 @@ img {
   padding-top: 17px;
 
 }
+
+.repo{
+  text-align: center;
+  color: black;
+  display: block;
+  margin-top: 10px;
+  font-size: large;
+  font-weight: bold;
+  text-decoration: underline;
+}
